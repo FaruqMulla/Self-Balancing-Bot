@@ -1,3 +1,3 @@
-# Self-Balancing-Bot
+# Self-Balancing-Robot
 
 
